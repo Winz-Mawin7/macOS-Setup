@@ -9,7 +9,7 @@ fi
 # Set up Screenshots folders
 if [[ ! -d "~/Screenshots ]]; then
 	mkdir ~/Screenshots
-	echo "make directory ~/Screenshots
+	echo "make directory ~/Screenshots"
 defaults write com.apple.screencapture location ~/Screenshots
 
 # Show hidden Library folder

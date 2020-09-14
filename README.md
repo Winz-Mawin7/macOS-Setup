@@ -1,6 +1,6 @@
-# My OS X Auto Install
+# My OS X Auto Setup
 
-###* `zsh run.sh` to run all command below.
+### `zsh install.sh` to run all command below.
 
 * `brew bundle` to install from Brewfile
 * `zsh oh-my-zsh.sh` to install oh-my-zsh. 
