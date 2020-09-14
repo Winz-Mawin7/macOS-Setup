@@ -1,6 +1,7 @@
 # My OS X Auto Setup
 
 ### `zsh install.sh` to run all command below.
+_*After Install oh-my-zsh finished you **must type** `exit` for exit zsh session*_
 
 * `brew bundle` to install from Brewfile
 * `zsh oh-my-zsh.sh` to install oh-my-zsh. 
