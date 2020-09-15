@@ -176,6 +176,12 @@
         "options": {
           "full_name": "pgadmin4"
         }
+      },
+      "postman": {
+        "version": "7.32.0",
+        "options": {
+          "full_name": "postman"
+        }
       }
     },
     "mas": {
