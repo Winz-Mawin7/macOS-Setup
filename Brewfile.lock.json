@@ -182,6 +182,12 @@
         "options": {
           "full_name": "postman"
         }
+      },
+      "graphiql": {
+        "version": "0.7.2",
+        "options": {
+          "full_name": "graphiql"
+        }
       }
     },
     "mas": {

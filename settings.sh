@@ -36,4 +36,7 @@ export PATH=$GEM_HOME/bin:$PATH
 # Set up Java_HOME path
 export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"
 
+# Set alias postgresql
+alias pg_start="brew services start postgresql"
+alias pg_stop="brew services stop postgresql"
 source ~/.zshrc
