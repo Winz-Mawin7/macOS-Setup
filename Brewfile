@@ -19,6 +19,7 @@ cask "pgadmin4"
 cask "postman"
 cask "graphiql"
 cask "libreoffice"
+cask "figma"
 mas "Xcode",id: 497799835
 mas "LINE",id: 539883307
 mas "Messenger",id: 1480068668
