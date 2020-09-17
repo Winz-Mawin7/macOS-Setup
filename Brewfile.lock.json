@@ -188,6 +188,12 @@
         "options": {
           "full_name": "graphiql"
         }
+      },
+      "libreoffice": {
+        "version": "7.0.1",
+        "options": {
+          "full_name": "libreoffice"
+        }
       }
     },
     "mas": {
