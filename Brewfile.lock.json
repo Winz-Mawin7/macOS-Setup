@@ -200,12 +200,18 @@
         "options": {
           "full_name": "figma"
         }
+      },
+      "ngrok": {
+        "version": "latest",
+        "options": {
+          "full_name": "ngrok"
+        }
       }
     },
     "mas": {
       "Xcode": {
         "id": "497799835",
-        "version": "11.7"
+        "version": "12.0"
       },
       "LINE": {
         "id": "539883307",
@@ -236,7 +242,7 @@
         "HOMEBREW_PREFIX": "/usr/local",
         "Homebrew/homebrew-core": "e3be15768454f7226768ba11ba4b1b1ea97624cb",
         "CLT": "12.0.0.0.1.1599194153",
-        "Xcode": "11.7",
+        "Xcode": "12.0",
         "macOS": "10.15.6"
       }
     }
