@@ -166,13 +166,13 @@
         }
       },
       "adoptopenjdk": {
-        "version": "14.0.2,12",
+        "version": "15,36",
         "options": {
           "full_name": "adoptopenjdk"
         }
       },
       "pgadmin4": {
-        "version": "4.25",
+        "version": "4.26",
         "options": {
           "full_name": "pgadmin4"
         }
@@ -206,6 +206,12 @@
         "options": {
           "full_name": "ngrok"
         }
+      },
+      "spotify": {
+        "version": "latest",
+        "options": {
+          "full_name": "spotify"
+        }
       }
     },
     "mas": {
@@ -238,9 +244,9 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.5.0",
+        "HOMEBREW_VERSION": "2.5.1-72-gfd4ed35",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "e3be15768454f7226768ba11ba4b1b1ea97624cb",
+        "Homebrew/homebrew-core": "4057656c2fd391c1bc13908834efc25b4ff9f59a",
         "CLT": "12.0.0.0.1.1599194153",
         "Xcode": "12.0",
         "macOS": "10.15.6"
