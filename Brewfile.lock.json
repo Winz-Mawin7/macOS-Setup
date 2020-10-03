@@ -212,16 +212,34 @@
         "options": {
           "full_name": "spotify"
         }
+      },
+      "open-in-code": {
+        "version": "1.0",
+        "options": {
+          "full_name": "open-in-code"
+        }
+      },
+      "rectangle": {
+        "version": "0.32",
+        "options": {
+          "full_name": "rectangle"
+        }
+      },
+      "vlc": {
+        "version": "3.0.11.1",
+        "options": {
+          "full_name": "vlc"
+        }
       }
     },
     "mas": {
       "Xcode": {
         "id": "497799835",
-        "version": "12.0"
+        "version": "12.0.1"
       },
       "LINE": {
         "id": "539883307",
-        "version": "6.2.2"
+        "version": "6.3.1"
       },
       "Cleaner-App": {
         "id": "1013897218",
@@ -229,7 +247,7 @@
       },
       "Messenger": {
         "id": "1480068668",
-        "version": "68.3.120"
+        "version": "71.5.119"
       },
       "Microsoft Excel": {
         "id": "462058435",
@@ -244,12 +262,12 @@
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.5.1-72-gfd4ed35",
+        "HOMEBREW_VERSION": "2.5.2-41-g9fbe13c",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "4057656c2fd391c1bc13908834efc25b4ff9f59a",
-        "CLT": "12.0.0.0.1.1599194153",
-        "Xcode": "12.0",
-        "macOS": "10.15.6"
+        "Homebrew/homebrew-core": "bac6904fef5f44b25d9bcdb3f0239db8548d8f09",
+        "CLT": "12.0.32.2",
+        "Xcode": "12.0.1",
+        "macOS": "10.15.7"
       }
     }
   }
