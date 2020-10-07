@@ -7,6 +7,7 @@ brew "yarn"
 brew "wget"
 brew "watchman"
 brew "postgresql"
+brew "go"
 cask "google-chrome"
 cask "microsoft-edge"
 cask "iterm2"
@@ -29,4 +30,4 @@ mas "LINE",id: 539883307
 mas "Messenger",id: 1480068668
 mas "Microsoft Excel",id: 462058435
 mas "The Unarchiver",id: 425424353
-mas "Elemedia:universal video player",id: 937759555
+mas "Twitter",id: 1482454543
