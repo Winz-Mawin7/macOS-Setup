@@ -251,6 +251,12 @@
         "options": {
           "full_name": "vlc"
         }
+      },
+      "background-music": {
+        "version": "0.3.2",
+        "options": {
+          "full_name": "background-music"
+        }
       }
     },
     "mas": {
@@ -268,7 +274,7 @@
       },
       "Messenger": {
         "id": "1480068668",
-        "version": "71.5.119"
+        "version": "72.6.119"
       },
       "Microsoft Excel": {
         "id": "462058435",
