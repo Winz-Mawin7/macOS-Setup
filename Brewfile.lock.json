@@ -257,6 +257,12 @@
         "options": {
           "full_name": "background-music"
         }
+      },
+      "flipper": {
+        "version": "0.58.0",
+        "options": {
+          "full_name": "flipper"
+        }
       }
     },
     "mas": {
@@ -266,7 +272,7 @@
       },
       "LINE": {
         "id": "539883307",
-        "version": "6.3.1"
+        "version": "6.3.2"
       },
       "Cleaner-App": {
         "id": "1013897218",
@@ -274,11 +280,11 @@
       },
       "Messenger": {
         "id": "1480068668",
-        "version": "72.6.119"
+        "version": "73.2.121"
       },
       "Microsoft Excel": {
         "id": "462058435",
-        "version": "16.41"
+        "version": "16.42"
       },
       "The Unarchiver": {
         "id": "425424353",
@@ -286,7 +292,7 @@
       },
       "Twitter": {
         "id": "1482454543",
-        "version": "8.38"
+        "version": "8.40"
       }
     }
   },

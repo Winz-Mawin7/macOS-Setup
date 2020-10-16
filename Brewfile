@@ -26,6 +26,7 @@ cask "spotify"
 cask "rectangle"
 cask "open-in-code"
 cask "background-music"
+cask "flipper"
 mas "Xcode",id: 497799835
 mas "LINE",id: 539883307
 mas "Messenger",id: 1480068668
