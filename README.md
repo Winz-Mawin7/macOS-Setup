@@ -8,4 +8,4 @@ _*After Install oh-my-zsh finished you **must type** `exit` for exit zsh session
 * `zsh powerlevel10k.sh` to set up powerlevel10k.
 * `zsh settings.sh` to settings developement environment.
 
-
+* `brew update && brew upgrade` to update brew and upgrade installed.
