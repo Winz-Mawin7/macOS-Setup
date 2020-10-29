@@ -35,3 +35,4 @@ mas "Messenger",id: 1480068668
 mas "Microsoft Excel",id: 462058435
 mas "The Unarchiver",id: 425424353
 mas "Twitter",id: 1482454543
+mas "Noto - Elegant Note",id: 1459055246
