@@ -23,22 +23,22 @@
         }
       },
       "git": {
-        "version": "2.29.1",
+        "version": "2.29.2",
         "bottle": {
           "cellar": "/usr/local/Cellar",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/git-2.29.1.catalina.bottle.tar.gz",
-              "sha256": "385f0411bc491f64ee14e76a74ae4d4e09a7f7ec8c2fa2dcd8933090fc1a27e2"
+              "url": "https://homebrew.bintray.com/bottles/git-2.29.2.catalina.bottle.tar.gz",
+              "sha256": "47cffc0d84e2a273cc6088802633e1d4d1fc8afe67633ed8487b497cd78c54f8"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/git-2.29.1.mojave.bottle.tar.gz",
-              "sha256": "85be6b3c6c44b38b3076994a211b821daa0f74ed5fcd9f168ea5d640d0dbee3e"
+              "url": "https://homebrew.bintray.com/bottles/git-2.29.2.mojave.bottle.tar.gz",
+              "sha256": "97cd781a7060f6c1dc456d36e6d17d68ec78470affe3fc0b1d8ff46402be6fcf"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/git-2.29.1.high_sierra.bottle.tar.gz",
-              "sha256": "3aa9aa95a05f2ec114fbb5acac525f45c42088122976ef369648c45acb0f138f"
+              "url": "https://homebrew.bintray.com/bottles/git-2.29.2.high_sierra.bottle.tar.gz",
+              "sha256": "b0ad755307e1f83e0c844aeef94774e499ebb85f1e36934966ac9bb31618da61"
             }
           }
         }
@@ -274,7 +274,7 @@
         }
       },
       "libreoffice": {
-        "version": "7.0.2",
+        "version": "7.0.3",
         "options": {
           "full_name": "libreoffice"
         }
@@ -326,6 +326,12 @@
         "options": {
           "full_name": "flipper"
         }
+      },
+      "gitkraken": {
+        "version": "7.4.0",
+        "options": {
+          "full_name": "gitkraken"
+        }
       }
     },
     "mas": {
@@ -360,16 +366,16 @@
       "Noto - Elegant Note": null,
       "Microsoft To Do": {
         "id": "1274495053",
-        "version": "2.30"
+        "version": "2.30.1"
       }
     }
   },
   "system": {
     "macos": {
       "catalina": {
-        "HOMEBREW_VERSION": "2.5.7-16-g771c961",
+        "HOMEBREW_VERSION": "2.5.8-32-gfd00721",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "b45de432b91b757506ec13fb7616a00821666c3b",
+        "Homebrew/homebrew-core": "1b6f6b87e32c8e9494a83a46b195bc6a725f3b8c",
         "CLT": "12.0.32.2",
         "Xcode": "12.0.1",
         "macOS": "10.15.7"
