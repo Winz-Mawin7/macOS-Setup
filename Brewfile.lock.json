@@ -332,6 +332,12 @@
         "options": {
           "full_name": "gitkraken"
         }
+      },
+      "slack": {
+        "version": "4.10.3",
+        "options": {
+          "full_name": "slack"
+        }
       }
     },
     "mas": {

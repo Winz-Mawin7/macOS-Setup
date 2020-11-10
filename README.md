@@ -9,5 +9,7 @@ _*After Install oh-my-zsh finished you **must type** `exit` for exit zsh session
 * `zsh settings.sh` to settings developement environment.
 
 * `brew update && brew upgrade` to update brew and upgrade installed.
+* `brew bundle dump` to dump brew on Brewfile
+* `brew bundle --force cleanup`
 
 * Open in Code: https://github.com/sozercan/OpenInCode
