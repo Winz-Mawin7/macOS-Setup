@@ -1,4 +1,3 @@
-tap "facebook/fb"
 brew "cask"
 brew "mas"
 brew "git"
@@ -11,7 +10,6 @@ brew "postgresql"
 brew "go"
 brew "k6"
 brew "curl"
-brew "idb-companion"
 cask "google-chrome"
 cask "microsoft-edge"
 cask "iterm2"
@@ -25,14 +23,10 @@ cask "graphiql"
 cask "libreoffice"
 cask "spotify"
 cask "rectangle"
-cask "open-in-code"
 cask "background-music"
-cask "flipper"
-cask "reactotron"
 cask "gitkraken"
 mas "Xcode",id: 497799835
 mas "LINE",id: 539883307
 mas "Messenger",id: 1480068668
-mas "The Unarchiver",id: 425424353
 mas "Microsoft To Do",id: 1274495053
 
