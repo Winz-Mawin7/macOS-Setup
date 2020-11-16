@@ -7,9 +7,11 @@ if [[ ! -d "~/.nvm" ]]; then
 fi
 
 # Set up Screenshots folders
-if [[ ! -d "~/Screenshots ]]; then
+if [[ ! -d "~/Screenshots" ]]; then
 	mkdir ~/Screenshots
 	echo "make directory ~/Screenshots"
+fi
+
 defaults write com.apple.screencapture location ~/Screenshots
 
 # Show hidden Library folder
@@ -37,6 +39,6 @@ export PATH=$GEM_HOME/bin:$PATH
 export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"
 
 # Set alias postgresql
-alias pg_start="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start"
-alias pg_stop="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log stop"
+echo "alias pg_start="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start"
+alias pg_stop="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log stop"" >> ~/.zshrc
 source ~/.zshrc

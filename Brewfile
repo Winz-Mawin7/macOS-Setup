@@ -23,13 +23,10 @@ cask "graphiql"
 cask "libreoffice"
 cask "spotify"
 cask "rectangle"
-cask "open-in-code"
 cask "background-music"
-cask "flipper"
 cask "gitkraken"
 mas "Xcode",id: 497799835
 mas "LINE",id: 539883307
 mas "Messenger",id: 1480068668
-mas "The Unarchiver",id: 425424353
 mas "Microsoft To Do",id: 1274495053
 
