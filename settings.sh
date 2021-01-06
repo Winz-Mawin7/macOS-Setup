@@ -38,6 +38,6 @@ export GEM_HOME=$HOME/.gem
 export PATH=$GEM_HOME/bin:$PATH' >> ~/.zshrc
 
 echo '# Set up Java_HOME path
-export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"' >> >> ~/.zshrc
+export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"' >> ~/.zshrc
 
 source ~/.zshrc
