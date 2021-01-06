@@ -428,6 +428,12 @@
         "options": {
           "full_name": "font-fira-code"
         }
+      },
+      "sourcetree": {
+        "version": "4.0.2,236",
+        "options": {
+          "full_name": "sourcetree"
+        }
       }
     },
     "mas": {
@@ -487,7 +493,7 @@
       "big_sur": {
         "HOMEBREW_VERSION": "2.7.1",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "9b85587e2fa7dc1e46f50572ecf1e951613d7e21",
+        "Homebrew/homebrew-core": "bd7335c2c2f95594a585e22d3c3e483128cf126f",
         "CLT": "12.3.0.0.1.1607026830",
         "Xcode": "12.3",
         "macOS": "11.1"
