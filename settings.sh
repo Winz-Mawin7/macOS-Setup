@@ -38,8 +38,4 @@ export PATH=$GEM_HOME/bin:$PATH
 # Set up Java_HOME path
 export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"
 
-# Set alias postgresql
-echo "alias pg_start="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start"
-alias pg_stop="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log stop"" >> ~/.zshrc
-
 source ~/.zshrc
