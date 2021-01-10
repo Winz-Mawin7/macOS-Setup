@@ -506,6 +506,90 @@
         "options": {
           "full_name": "zoom"
         }
+      },
+      "wireshark": {
+        "version": "3.4.2",
+        "options": {
+          "full_name": "wireshark"
+        }
+      },
+      "appcleaner": {
+        "version": "3.5.1,3955",
+        "options": {
+          "full_name": "appcleaner"
+        }
+      },
+      "qlcolorcode": {
+        "version": "4.1.0",
+        "options": {
+          "full_name": "qlcolorcode"
+        }
+      },
+      "qlmarkdown": {
+        "version": "1.3.6",
+        "options": {
+          "full_name": "qlmarkdown"
+        }
+      },
+      "quicklook-json": {
+        "version": "latest",
+        "options": {
+          "full_name": "quicklook-json"
+        }
+      },
+      "quicklook-csv": {
+        "version": "1.3",
+        "options": {
+          "full_name": "quicklook-csv"
+        }
+      },
+      "stats": {
+        "version": "2.4.11",
+        "options": {
+          "full_name": "stats"
+        }
+      },
+      "alt-tab": {
+        "version": "6.12.0",
+        "options": {
+          "full_name": "alt-tab"
+        }
+      },
+      "cheatsheet": {
+        "version": "1.6",
+        "options": {
+          "full_name": "cheatsheet"
+        }
+      },
+      "maccy": {
+        "version": "0.18.2",
+        "options": {
+          "full_name": "maccy"
+        }
+      },
+      "bartender": {
+        "version": "4.0.33,40033",
+        "options": {
+          "full_name": "bartender"
+        }
+      },
+      "clean-me": {
+        "version": "1.4.2",
+        "options": {
+          "full_name": "clean-me"
+        }
+      },
+      "openinterminal": {
+        "version": "2.2.3",
+        "options": {
+          "full_name": "openinterminal"
+        }
+      },
+      "hiddenbar": {
+        "version": "1.6",
+        "options": {
+          "full_name": "hiddenbar"
+        }
       }
     },
     "mas": {
@@ -540,7 +624,7 @@
       "Noto - Elegant Note": null,
       "Microsoft To Do": {
         "id": "1274495053",
-        "version": "2.33"
+        "version": "2.34"
       }
     },
     "tap": {
@@ -548,16 +632,16 @@
         "revision": "160f491218b509a5391a2eb32ecf9a6fe3d2933d"
       },
       "homebrew/cask-fonts": {
-        "revision": "53ee64763d24806687d6286fd6c25bf00eedc154"
+        "revision": "0d42ad8900f04ccc96bafb24f4f061f65ff54585"
       },
       "homebrew/bundle": {
-        "revision": "1287d4432c1a2c03cdfad91bcec57cf1417cc2a1"
+        "revision": "0cdf12f77f95a0428762360c97a23b76fe169def"
       },
       "homebrew/cask": {
-        "revision": "4658c964d5649f236903642109e34b8a75f39ea2"
+        "revision": "a75676b71759b25504cf7beca6ec10bceb779247"
       },
       "homebrew/core": {
-        "revision": "4867b83c6f29ca092f6c5092b8e871b72c853edf"
+        "revision": "6444624f13652daa984ab46614ba528c0cba1e72"
       }
     }
   },
@@ -574,7 +658,7 @@
       "big_sur": {
         "HOMEBREW_VERSION": "2.7.2",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "4867b83c6f29ca092f6c5092b8e871b72c853edf",
+        "Homebrew/homebrew-core": "6444624f13652daa984ab46614ba528c0cba1e72",
         "CLT": "12.3.0.0.1.1607026830",
         "Xcode": "12.3",
         "macOS": "11.1"
