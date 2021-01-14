@@ -42,6 +42,7 @@ cask "stats"
 cask "visual-studio-code"
 cask "wireshark"
 cask "zoom"
+cask "figma"
 mas "LINE", id: 539883307
 mas "Messenger", id: 1480068668
 mas "Microsoft To Do", id: 1274495053
