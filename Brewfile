@@ -25,6 +25,7 @@ cask "docker"
 cask "font-fira-code"
 cask "google-chrome"
 cask "graphiql"
+cask "altair-graphql-client"
 cask "hiddenbar"
 cask "iterm2"
 cask "maccy"
@@ -32,6 +33,7 @@ cask "microsoft-auto-update"
 cask "microsoft-edge"
 cask "openinterminal"
 cask "postman"
+cask "qlstephen"
 cask "qlcolorcode"
 cask "quicklook-csv"
 cask "quicklook-json"
@@ -40,10 +42,14 @@ cask "sourcetree"
 cask "spotify"
 cask "stats"
 cask "visual-studio-code"
+cask "alfred"
 cask "wireshark"
 cask "zoom"
 cask "figma"
+cask "lens"
 mas "LINE", id: 539883307
 mas "Messenger", id: 1480068668
 mas "Microsoft To Do", id: 1274495053
+mas "Twitter", id: 1482454543
 mas "Xcode", id: 497799835
+
