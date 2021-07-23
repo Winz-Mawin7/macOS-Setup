@@ -67,6 +67,8 @@ cask "wireshark"
 cask "zoom"
 cask "sqlectron"
 cask "flutter"
+cask "dingtalk"
+cask "dingtalk-lite"
 mas "LINE", id: 539883307
 mas "Messenger", id: 1480068668
 mas "Microsoft To Do", id: 1274495053
