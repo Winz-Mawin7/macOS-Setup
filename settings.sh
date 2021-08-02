@@ -22,9 +22,6 @@ echo '# Make directory for Node Version Manager
 export NVM_DIR=$HOME/.nvm
 source $(brew --prefix nvm)/nvm.sh' >> ~/.zshrc
 
-# Install cocoapods
-sudo gem install cocoapods
-
 
 echo '# Set up PATH environment for android simulator
 export ANDROID_HOME=$HOME/Library/Android/sdk
