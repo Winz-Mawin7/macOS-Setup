@@ -5,13 +5,13 @@
         "revision": "6e5d303a447a15f231912de13d4ad0c16a7bfa51"
       },
       "homebrew/cask": {
-        "revision": "77df6bb1672245095ecc1cbeddaf20490f436459"
+        "revision": "f9e2323331be9fd24376caec946ce9fd5035b366"
       },
       "homebrew/cask-fonts": {
         "revision": "5918091e9904bb200dff2f2b7d057f5b67e5c07f"
       },
       "homebrew/core": {
-        "revision": "4c53c29fb920f3c41b7fb7857c06fe933b3915db"
+        "revision": "5589dd94fdb368438325471fb638d0a85bae37da"
       }
     },
     "brew": {
@@ -823,6 +823,12 @@
         "options": {
           "full_name": "brave-browser"
         }
+      },
+      "temurin": {
+        "version": "17,35",
+        "options": {
+          "full_name": "temurin"
+        }
       }
     },
     "mas": {
@@ -857,7 +863,7 @@
       "big_sur": {
         "HOMEBREW_VERSION": "3.2.13",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "4c53c29fb920f3c41b7fb7857c06fe933b3915db",
+        "Homebrew/homebrew-core": "5589dd94fdb368438325471fb638d0a85bae37da",
         "CLT": "13.0.0.0.1.1630607135",
         "Xcode": "13.0",
         "macOS": "11.6"
