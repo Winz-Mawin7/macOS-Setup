@@ -57,6 +57,7 @@ cask "visual-studio-code"
 cask "wireshark"
 cask "zoom"
 cask "brave-browser"
+cask "flipper"
 cask "react-native-debugger"
 cask "ngrok"
 mas "LINE", id: 539883307
