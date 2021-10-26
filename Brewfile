@@ -25,6 +25,7 @@ cask "spotify"
 cask "rectangle"
 cask "background-music"
 cask "gitkraken"
+cask "avocode"
 mas "Xcode",id: 497799835
 mas "LINE",id: 539883307
 mas "Messenger",id: 1480068668
