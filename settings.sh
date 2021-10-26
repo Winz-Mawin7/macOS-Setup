@@ -17,28 +17,24 @@ defaults write com.apple.screencapture location ~/Screenshots
 # Show hidden Library folder
 chflags nohidden ~/Library
 
-# Make directory for Node Version Manager
-echo 'export NVM_DIR=$HOME/.nvm
+
+echo '# Make directory for Node Version Manager
+export NVM_DIR=$HOME/.nvm
 source $(brew --prefix nvm)/nvm.sh' >> ~/.zshrc
 
-# Install cocoapods
-sudo gem install cocoapods
 
-# Set up PATH environment for android simulator
-echo 'export ANDROID_HOME=$HOME/Library/Android/sdk
+echo '# Set up PATH environment for android simulator
+export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools' >> ~/.zshrc
 
-# Set up Path environment for GEM
+echo '# Set up Path environment for GEM
 export GEM_HOME=$HOME/.gem
-export PATH=$GEM_HOME/bin:$PATH
+export PATH=$GEM_HOME/bin:$PATH' >> ~/.zshrc
 
-# Set up Java_HOME path
-export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"
+echo '# Set up Java_HOME path
+export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/Contents/Home"' >> ~/.zshrc
 
-# Set alias postgresql
-echo "alias pg_start="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start"
-alias pg_stop="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log stop"" >> ~/.zshrc
 source ~/.zshrc
