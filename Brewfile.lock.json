@@ -2,16 +2,16 @@
   "entries": {
     "tap": {
       "homebrew/bundle": {
-        "revision": "89a05bc59f9250fb6f5e08657761c848738f08d9"
+        "revision": "98605110483b68fac97c85f14f86d9120e0c6f88"
       },
       "homebrew/cask": {
-        "revision": "b32c22fe6f7169719df3c9359a9ceac357c03781"
+        "revision": "cc6c472b39301a1c242c6b14faadd51e8bed7df4"
       },
       "homebrew/cask-fonts": {
         "revision": "67e89af711b03a8a9df84b1eb63abd5c60638cb5"
       },
       "homebrew/core": {
-        "revision": "1ba53a9fdbb855d2b7f66663a5322419c1731ce8"
+        "revision": "56b7592b15c8ade777487631ac94eeaae859ea78"
       }
     },
     "brew": {
@@ -894,7 +894,7 @@
         }
       },
       "postman": {
-        "version": "9.4.1",
+        "version": "9.5.0",
         "options": {
           "full_name": "postman"
         }
@@ -1027,7 +1027,7 @@
       },
       "Twitter": {
         "id": "1482454543",
-        "version": "8.93.1"
+        "version": "8.94"
       },
       "Xcode": {
         "id": "497799835",
@@ -1040,7 +1040,7 @@
       "big_sur": {
         "HOMEBREW_VERSION": "3.3.8",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "1ba53a9fdbb855d2b7f66663a5322419c1731ce8",
+        "Homebrew/homebrew-core": "56b7592b15c8ade777487631ac94eeaae859ea78",
         "CLT": "13.0.0.0.1.1630607135",
         "Xcode": "13.2",
         "macOS": "11.6"
