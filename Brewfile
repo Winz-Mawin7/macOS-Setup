@@ -59,6 +59,7 @@ cask "brave-browser"
 cask "flipper"
 cask "react-native-debugger"
 cask "ngrok"
+cask "steam"
 mas "LINE", id: 539883307
 mas "Messenger", id: 1480068668
 mas "Microsoft To Do", id: 1274495053
