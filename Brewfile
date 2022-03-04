@@ -60,6 +60,7 @@ cask "flipper"
 cask "react-native-debugger"
 cask "ngrok"
 cask "steam"
+cask "loopback"
 mas "LINE", id: 539883307
 mas "Messenger", id: 1480068668
 mas "Microsoft To Do", id: 1274495053
