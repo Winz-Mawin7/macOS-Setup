@@ -1,0 +1,5 @@
+MAILTO=""
+BREW=/usr/local/bin/brew
+
+@reboot $BREW update && $BREW upgrade
+
