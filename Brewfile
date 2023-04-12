@@ -40,7 +40,6 @@ cask "font-fira-code"
 cask "google-chrome"
 cask "iterm2"
 cask "zulu11"
-cask "loopback"
 cask "maccy"
 cask "microsoft-auto-update"
 cask "ngrok"
@@ -63,6 +62,7 @@ cask "visual-studio-code"
 cask "zoom"
 cask "reactotron"
 cask "devtoys"
+cask "blackhole-2ch"
 mas "LINE", id: 539883307
 mas "Messenger", id: 1480068668
 mas "Microsoft To Do", id: 1274495053
