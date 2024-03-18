@@ -58,6 +58,7 @@ cask "temurin"
 cask "visual-studio-code"
 cask "zoom"
 cask "zulu11"
+cask "obsidian"
 mas "LINE", id: 539883307
 mas "Messenger", id: 1480068668
 mas "Microsoft To Do", id: 1274495053
