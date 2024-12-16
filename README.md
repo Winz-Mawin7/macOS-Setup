@@ -10,10 +10,13 @@ _*After Install oh-my-zsh finished you **must type** `exit` for exit zsh session
 
 ### oh my zsh plugins (.zshrc)
 
-`plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-completions)`
+`plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-completions zsh-history-substring-search z extract fzf)`
 
 ### Homebrew
 
 - `brew update && brew upgrade` to update brew and upgrade installed.
 - `brew bundle dump` to dump brew on Brewfile
 - `brew bundle --force cleanup`
+
+### Crontab
+- `crontab -e` and copy&paste `cronjob.txt`
