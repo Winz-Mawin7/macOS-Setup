@@ -35,5 +35,6 @@ cask "slack"
 cask "spotify"
 cask "visual-studio-code"
 cask "warp"
+cask "docker"
 mas "LINE", id: 539883307
 mas "Messenger", id: 1480068668
